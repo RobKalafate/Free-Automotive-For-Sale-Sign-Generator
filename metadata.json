@@ -1,0 +1,6 @@
+{
+  "name": "Classic Car Window For Sale Sign Generator",
+  "description": "Design and print high-visibility classic car window for sale signs with QR codes, specs, and distance readability simulation for 1967 Cougar XR-7 and vintage automobiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
